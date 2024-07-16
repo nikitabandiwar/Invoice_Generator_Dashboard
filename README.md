@@ -2,7 +2,7 @@
 ## Ubuntu-Pythonic Brilliance: Crafting an Elegant Invoice Dashboard with Django-Rest Framework.
 
 
-### Link to the website:(http://127.0.0.1:5555/admin/login/?next=/admin/)
+
 
 
 ### `Working of the Invoice Generator :`
